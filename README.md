@@ -3,6 +3,5 @@
 
 I'm avoidably invested in you having a good day. I have a passion for making silly IOT projects, playing day long board games, and teaching people about code. 
 - Get in touch with me on twitter [@ShyRuparel](https://twitter.com/shyruparel).
-- Currently looking for my next thing. Get in touch with me via twitter if you're looking someone with my skill set. 
 - Currently Developer Evanglist at [@superblocksteam](https://github.com/superblocksteam/), Formerly Sr. Developer Advocate at [@Docker](https://github.com/docker), Developer Evanglist at [@Contentful](https://github.com/contentful/), Deputy Commissioner [@MLH](https://github.com/mlh), and Hacker in Residence [@hackNY](https://twitter.com/hackny).
 - Pronouns: He/Him
